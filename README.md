@@ -1,1 +1,1 @@
-# All the code for web XR also some links to work with:
+# All the code for web XR also some links to work with
