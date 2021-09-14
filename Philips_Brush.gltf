@@ -143,14 +143,7 @@
             "target": 34963
         }
     ],
-    "images": [
-        {
-            "uri": "Philips_Brush_Texture.jpg"
-        },
-        {
-            "uri": "Philips_Bristles_Texture.jpg"
-        }
-    ],
+    
     "materials": [
         {
             "name": "01 - Default",
